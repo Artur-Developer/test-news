@@ -9,6 +9,9 @@
 Логин admin;
 пароль 123123123
 
+Большенство sql запросов находятся в файле по пути common\models\News.php
+Контроллер frontend\modules\news\controllers\NewsController.php;
+
 Разработал тестовое задание на вакансию php-разработчик Фазылов Артур для компании ПРОМТОРГ
 
 
